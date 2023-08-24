@@ -1,0 +1,36 @@
+﻿body {
+}
+
+    .nav-link
+
+{
+    /* Change text color to orange */
+    color: orange;
+    /* Remove default underline */
+    text-decoration: none;
+}
+main {
+    /* Change max width to 600px */
+    max-width: 600px;
+    /* Add margin to top and bottom */
+    margin-top: 44px;
+    margin-bottom: 44px;
+    /* Center the element horizontally */
+    margin-left: auto;
+    margin-right: auto;
+}
+section {
+    /* Add margin to top and bottom */
+    margin-top: 44px;
+    margin-bottom: 44px;
+    /* Add a visible border */
+    border: 3px dotted orange;
+    /* Add padding to create space between content and border */
+    padding: 16px;
+}
+#title {
+    /* Change font size to 40px */
+    font-size: 40px;
+    /* Change font weight to 800 for bold text */
+    font-weight: 800;
+}
